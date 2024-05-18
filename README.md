@@ -3,14 +3,13 @@
 ![preview](images/preview.png)
 
 # LEGUI
-
+[![Discord](https://img.shields.io/discord/245558983123927040.svg?slongCache=true&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/6wfqXpJ)
 ![REPO SIZE](https://img.shields.io/github/repo-size/SpinyOwl/legui.svg?style=for-the-badge)
 ![CODE SIZE](https://img.shields.io/github/languages/code-size/SpinyOwl/legui.svg?style=for-the-badge)
+[![STABLE VERSION](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FSpinyOwl%2Frepo%2Freleases%2Fcom%2Fspinyowl%2Flegui%2Fmaven-metadata.xml&query=%2F%2Fmetadata%2Fversioning%2Flatest&style=for-the-badge&label=latest%20version&color=blue)](https://github.com/SpinyOwl/repo/tree/releases/com/spinyowl/legui)  
 [![Sonar Quality Gate](https://img.shields.io/sonar/alert_status/SpinyOwl_legui?logo=sonarcloud&server=https%3A%2F%2Fsonarcloud.io&style=for-the-badge)](https://sonarcloud.io/dashboard?id=SpinyOwl_legui)
 [![License](https://img.shields.io/github/license/SpinyOwl/legui.svg?style=for-the-badge)](/LICENSE)
-[![Discord](https://img.shields.io/discord/245558983123927040.svg?slongCache=true&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/6wfqXpJ)  
-![Build and publish](https://img.shields.io/github/workflow/status/SpinyOwl/legui/Build%20and%20publish/develop?label=build&logo=Github&style=for-the-badge)
-[![STABLE VERSION](https://img.shields.io/badge/dynamic/xml.svg?label=latest%20version&url=https%3A%2F%2Fraw.github.com%2FSpinyOwl%2Frepo%2Freleases%2Fcom%2Fspinyowl%2Flegui%2Fmaven-metadata.xml&query=%2F%2Fmetadata%2Fversioning%2Fversions%2Fversion%5Blast()%5D&colorB=blue&style=for-the-badge)](https://github.com/SpinyOwl/repo/tree/releases/com/spinyowl/legui)
+![Build and publish](https://img.shields.io/github/actions/workflow/status/SpinyOwl/legui/github.yml?branch=develop&style=for-the-badge&label=build)
 
 ## Community and Support
 You can join the community in [the Discord server!](https://discord.gg/6wfqXpJ) I also encourage everyone to voice your suggestions, comments, and questions in the Discord.
@@ -167,8 +166,8 @@ All examples located under [demo](/src/main/java/com/spinyowl/legui/demo/) packa
 > This tool is written in Kotlin, using LWJGL3 for rendering and Legui to build user interfaces
 <table>
   <tr>
-    <td><img src="https://camo.githubusercontent.com/f21283491b2bdc4cff48206af8a87a41760319fd/68747470733a2f2f692e696d6775722e636f6d2f4257576f7470702e706e67"/></td>
-    <td><img src="https://camo.githubusercontent.com/da89620c34a885bbbd739f4448937b040f8a788d/68747470733a2f2f692e696d6775722e636f6d2f63314b5446614f2e706e67"/></td>
+    <td><img src="https://i.imgur.com/BWWotpp.png" alt="3d view"/></td>
+    <td><img src="https://i.imgur.com/5HfHfy4.png" alt="texture editing"/></td>
   </tr>
 </table>
 
@@ -178,8 +177,8 @@ All examples located under [demo](/src/main/java/com/spinyowl/legui/demo/) packa
 > A Tool to create Models basing on the "TMT" (updated and maintained version of Fex/FCL) Library.
 <table>
   <tr>
-    <td><img src="https://camo.githubusercontent.com/9e04a76b191c798ca7d2884df79b1e55058f518c4b788ac64ecd539aeefb272b/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3336353632383536313831393639373136322f3730363136373531383438393733393331342f6a617661775f323032302d30352d30325f31372d33342d30392e706e67"/></td>
-    <td><img src="https://camo.githubusercontent.com/0ada25a2c5913d8abbebba78a2ca022021f7125da4521eaaed14b272268c7480/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3336353632383536313831393639373136322f3730363136373530383139373137393439322f6a617661775f323032302d30352d30325f31372d33322d33382e706e67"/></td>
+    <td><img src="http://fexcraft.net/files/app_data/fmt-page/javaw_2020-05-02_17-34-09.png"/></td>
+    <td><img src="http://fexcraft.net/files/app_data/fmt-page/javaw_2020-05-02_17-35-10.png"/></td>
   </tr>
 </table>
 
